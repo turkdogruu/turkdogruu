@@ -30,5 +30,9 @@ i love helping projects.
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=turkdogruu&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=turkdogruu&theme=dark&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=turkdogruu&theme=dark"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkdogruu&theme=dark&layout=compact"/>
+</p>
+
